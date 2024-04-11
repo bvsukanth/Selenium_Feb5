@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-05T18:34:41 IST" name="Default suite" finished-at="2024-04-05T18:39:28 IST" duration-ms="286519">
+    <groups>
+    </groups>
+    <test started-at="2024-04-05T18:34:41 IST" name="Default test" finished-at="2024-04-05T18:39:28 IST" duration-ms="286519">
+      <class name="SeleniumTraining.exceldataProvider">
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:SeleniumTraining.exceldataProvider@3f191845]" started-at="2024-04-05T18:39:28 IST" name="testCaseData" data-provider="getData" finished-at="2024-04-05T18:39:28 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:SeleniumTraining.exceldataProvider@3f191845]" started-at="2024-04-05T18:39:28 IST" name="testCaseData" data-provider="getData" finished-at="2024-04-05T18:39:28 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+        <test-method signature="testCaseData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:SeleniumTraining.exceldataProvider@3f191845]" started-at="2024-04-05T18:39:28 IST" name="testCaseData" data-provider="getData" finished-at="2024-04-05T18:39:28 IST" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test2@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseData -->
+      </class> <!-- SeleniumTraining.exceldataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
